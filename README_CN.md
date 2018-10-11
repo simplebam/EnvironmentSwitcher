@@ -1,6 +1,7 @@
 [![API](https://img.shields.io/badge/API-7%2B-brightgreen.svg)](https://android-arsenal.com/api?level=7)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+用法：[一键切换应用环境工具（EnvironmentSwitcher）了解一下？](https://mp.weixin.qq.com/s/A_pJZxGFg4wMWaERJ3AidA)
 ### [English Document](https://github.com/CodeXiaoMai/EnvironmentSwitcher/blob/master/README.md)
 
 # Environment Switcher
